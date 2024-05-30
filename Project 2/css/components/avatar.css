@@ -1,0 +1,18 @@
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin: 20px 0; 
+}
+
+.avatar img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
